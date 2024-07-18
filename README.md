@@ -1,6 +1,7 @@
 ### Hi there 👋, Jack Mulholland here!
 #### R&D Materials Engineer
-![R&D Materials Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![R&D Materials Engineer]
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I leverage a strong foundation in mechanical engineering with a specialization in materials engineering to offer me a unique approach to my interest in software development.
 I have extensive experience in biomedical and construction industries, where I have employed my software skills to solve provlemsn in medical device R&D, HVAC engineering, and professional data analysis.
