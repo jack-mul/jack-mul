@@ -1,4 +1,7 @@
-## Hi there 👋
+# Jack Mulholland 👋
+
+**'R&D Materials Engineer'**
+
 
 - 🔭 I’m currently working as an R&D Materials Engineer at Aerogen.
 - 🌱 I’m currently learning SQL.
